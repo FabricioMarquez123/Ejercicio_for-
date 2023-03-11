@@ -1,0 +1,15 @@
+C:\Users\ThinkPad\Downloads\ejericio for\bin\Debug\net6.0\ejericio for.exe
+C:\Users\ThinkPad\Downloads\ejericio for\bin\Debug\net6.0\ejericio for.deps.json
+C:\Users\ThinkPad\Downloads\ejericio for\bin\Debug\net6.0\ejericio for.runtimeconfig.json
+C:\Users\ThinkPad\Downloads\ejericio for\bin\Debug\net6.0\ejericio for.dll
+C:\Users\ThinkPad\Downloads\ejericio for\bin\Debug\net6.0\ejericio for.pdb
+C:\Users\ThinkPad\Downloads\ejericio for\obj\Debug\net6.0\ejericio for.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\Downloads\ejericio for\obj\Debug\net6.0\ejericio for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad\Downloads\ejericio for\obj\Debug\net6.0\ejericio for.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\Downloads\ejericio for\obj\Debug\net6.0\ejericio for.AssemblyInfo.cs
+C:\Users\ThinkPad\Downloads\ejericio for\obj\Debug\net6.0\ejericio for.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Downloads\ejericio for\obj\Debug\net6.0\ejericio for.dll
+C:\Users\ThinkPad\Downloads\ejericio for\obj\Debug\net6.0\refint\ejericio for.dll
+C:\Users\ThinkPad\Downloads\ejericio for\obj\Debug\net6.0\ejericio for.pdb
+C:\Users\ThinkPad\Downloads\ejericio for\obj\Debug\net6.0\ejericio for.genruntimeconfig.cache
+C:\Users\ThinkPad\Downloads\ejericio for\obj\Debug\net6.0\ref\ejericio for.dll
